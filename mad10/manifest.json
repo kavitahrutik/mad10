@@ -1,0 +1,16 @@
+{
+    "name":"lab_10_pgm",
+    "start_url":"/indexo.html",
+    "short_name":"l10",
+    "description":"this is mad's last lab",
+    "theme_color":"#000000",
+    "background_color":"#fff000",
+    "icons":[{
+        "src":"img/new.png",
+        "type":"image/png",
+        "sizes":"512x512"
+    }],
+    "display":"standalone",
+    "orientation":"portrait",
+    "id":"l0"
+}

@@ -1,0 +1,10 @@
+[{
+    "product":"mobile",
+    "price":"5000",
+    "color":"yellow"
+},
+{
+    "product":"laptop",
+    "price":"45000",
+    "color":"black"
+}]
